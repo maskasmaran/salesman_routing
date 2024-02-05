@@ -9,7 +9,7 @@ import os
 import sys
 
 # Your Google Maps API key
-api_key = 'AIzaSyBOBo7PX9YzoPyiJP4pJkBqOHZX135OXBU'
+api_key = 'Google API'
 
 # Create a Google Maps client
 gmaps = googlemaps.Client(key=api_key)
